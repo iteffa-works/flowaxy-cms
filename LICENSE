@@ -1,138 +1,262 @@
 FLOWAXY CMS - SOURCE VIEW LICENSE
 Version 1.0
 
-Copyright (c) 2024 Flowaxy. All rights reserved.
+Copyright (c) 2024 Flowaxy Studio. All rights reserved.
 
 IMPORTANT - READ CAREFULLY: This License Agreement ("Agreement") is a legal 
-agreement between you ("Licensee" or "you") and Flowaxy ("Licensor") for the 
-Flowaxy CMS software, including associated documentation, source code, and 
-related materials (collectively, the "Software").
+agreement between you ("Licensee", "you", or "your") and Flowaxy Studio 
+("Licensor", "we", "us", or "our") for the Flowaxy CMS software, including 
+associated documentation, source code, object code, databases, configuration 
+files, templates, themes, plugins, and all related materials (collectively, 
+the "Software").
 
-BY VIEWING, ACCESSING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND 
-BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE 
-THE SOFTWARE AND DELETE ALL COPIES IN YOUR POSSESSION.
+BY VIEWING, ACCESSING, DOWNLOADING, INSTALLING, COPYING, OR OTHERWISE USING 
+THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, 
+AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO 
+THESE TERMS, DO NOT USE THE SOFTWARE AND IMMEDIATELY DELETE ALL COPIES IN 
+YOUR POSSESSION OR CONTROL.
+
+DEFINITIONS
+
+For purposes of this Agreement:
+
+"Software" means the Flowaxy CMS software, including all versions, updates, 
+modifications, and derivative works thereof, together with all associated 
+documentation, source code, object code, databases, configuration files, 
+templates, themes, plugins, and related materials.
+
+"Commercial Use" means any use of the Software that is intended for or results 
+in commercial advantage or monetary compensation, including but not limited 
+to: (i) use in connection with any revenue-generating activity; (ii) use by 
+or on behalf of any commercial entity; (iii) use to provide services to third 
+parties for compensation; (iv) use in any product or service that is sold, 
+licensed, or otherwise monetized.
+
+"Derivative Work" means any work based upon the Software, including but not 
+limited to translations, abridgments, condensations, or any other form in 
+which the Software may be recast, transformed, or adapted, including 
+modifications, enhancements, or extensions to the Software.
 
 1. GRANT OF LICENSE
 
 Subject to the terms and conditions of this Agreement, Licensor hereby grants 
-you a limited, non-exclusive, non-transferable, revocable license to:
+you a limited, non-exclusive, non-transferable, non-sublicensable, revocable 
+license to:
 
    a) View and examine the source code of the Software for educational, 
-      research, and code review purposes only;
+      research, security auditing, code quality review, and transparency 
+      purposes only;
    
    b) Use the Software solely for non-commercial, personal, or internal 
-      evaluation purposes;
+      evaluation and testing purposes;
 
    c) Create derivative works for personal, non-commercial study and research 
-      purposes only, provided such derivative works are not distributed, 
-      published, or used in any commercial capacity.
+      purposes only, provided such derivative works are:
+      (i) not distributed, published, transmitted, or made available to any 
+          third party;
+      (ii) not used in any commercial capacity;
+      (iii) not used to compete with or create competing products or services 
+           to Flowaxy Studio.
 
-2. RESTRICTIONS
+2. RESTRICTIONS AND PROHIBITED USES
 
 You are expressly prohibited from:
 
-   a) Using the Software, or any portion thereof, for any commercial purpose, 
+   a) Using the Software, or any portion thereof, for any Commercial Use, 
       including but not limited to:
-      - Selling, licensing, or sublicensing the Software;
+      - Selling, licensing, sublicensing, renting, or leasing the Software;
       - Using the Software to provide services to third parties for 
         compensation;
       - Incorporating the Software into any commercial product or service;
       - Using the Software in any revenue-generating activity;
+      - Using the Software in connection with any business or commercial 
+        enterprise;
 
-   b) Modifying, editing, altering, or creating derivative works of the 
-      Software for distribution, publication, or commercial use;
+   b) Modifying, editing, altering, adapting, or creating derivative works of 
+      the Software for distribution, publication, transmission, or Commercial 
+      Use;
 
-   c) Removing, altering, or obscuring any copyright, trademark, or other 
-      proprietary notices contained in the Software;
+   c) Removing, altering, obscuring, or modifying any copyright, trademark, 
+      patent, or other proprietary notices, labels, or marks contained in or 
+      on the Software;
 
-   d) Reverse engineering, decompiling, or disassembling the Software, except 
-      to the extent such restrictions are prohibited by applicable law;
+   d) Reverse engineering, decompiling, disassembling, or otherwise attempting 
+      to derive the source code of the Software from object code, except to 
+      the extent such restrictions are prohibited by applicable law;
 
-   e) Distributing, publishing, transmitting, or otherwise making the Software 
-      available to third parties, except as expressly permitted herein;
+   e) Distributing, publishing, transmitting, broadcasting, or otherwise 
+      making the Software or any portion thereof available to third parties, 
+      except as expressly permitted in Section 1(c) of this Agreement;
 
-   f) Using the Software in any manner that violates applicable laws or 
-      regulations;
+   f) Using the Software in any manner that violates applicable laws, 
+      regulations, or third-party rights;
 
    g) Using the Software to compete with or create competing products or 
-      services to Flowaxy.
+      services to Flowaxy Studio or its affiliates;
+
+   h) Using the Software in any manner that could damage, disable, overburden, 
+      or impair any Flowaxy Studio server or network;
+
+   i) Attempting to gain unauthorized access to any portion of the Software 
+      or any related systems, networks, or services;
+
+   j) Using any automated system, including but not limited to robots, 
+      spiders, or scrapers, to access the Software without express written 
+      permission from Flowaxy Studio.
 
 3. SOURCE CODE AVAILABILITY
 
 The source code is made available for viewing and examination purposes to 
-promote transparency, code quality review, security auditing, and educational 
-purposes. This availability does not grant you any rights beyond those 
-expressly stated in Section 1 of this Agreement.
+promote transparency, code quality review, security auditing, educational 
+purposes, and to demonstrate the integrity and quality of the Software. This 
+availability does not grant you any rights beyond those expressly stated in 
+Section 1 of this Agreement. The availability of source code does not 
+constitute a grant of any license to modify, distribute, or use the Software 
+for commercial purposes.
 
 4. INTELLECTUAL PROPERTY RIGHTS
 
 The Software is protected by copyright laws and international copyright 
-treaties, as well as other intellectual property laws and treaties. The 
-Software is licensed, not sold. All rights, title, and interest in and to the 
-Software, including all intellectual property rights therein, remain the 
-exclusive property of Flowaxy and its licensors.
+treaties, as well as other intellectual property laws and treaties, including 
+but not limited to patent, trademark, and trade secret laws. The Software is 
+licensed, not sold. All rights, title, and interest in and to the Software, 
+including all intellectual property rights therein (including but not limited 
+to copyrights, patents, trademarks, trade secrets, and other proprietary 
+rights), remain the exclusive property of Flowaxy Studio and its licensors. 
+This Agreement does not grant you any rights to use any Flowaxy Studio 
+trademarks, service marks, logos, or other brand features.
 
 5. COMMERCIAL LICENSING
 
-If you wish to use the Software for commercial purposes, modify the Software 
-for commercial use, or obtain additional rights not granted herein, you must 
-contact Flowaxy to obtain a separate commercial license agreement. Commercial 
-licensing terms and pricing are available upon request.
+If you wish to use the Software for Commercial Use, modify the Software for 
+Commercial Use, distribute the Software, or obtain additional rights not 
+granted herein, you must contact Flowaxy Studio to obtain a separate 
+commercial license agreement. Commercial licensing terms, conditions, and 
+pricing are available upon request. For inquiries regarding commercial 
+licensing, please visit https://flowaxy.com or contact us at info@flowaxy.com.
 
 6. NO WARRANTY
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
-FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL 
-FLOWAXY OR ITS LICENSORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, 
-WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, 
-OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", "AS AVAILABLE", AND "WITH ALL FAULTS", 
+WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, 
+NONINFRINGEMENT, TITLE, QUIET ENJOYMENT, ACCURACY, AND SYSTEM INTEGRATION. 
+FLOWAXY STUDIO AND ITS LICENSORS DO NOT WARRANT THAT THE SOFTWARE WILL MEET 
+YOUR REQUIREMENTS, THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED, 
+ERROR-FREE, OR SECURE, OR THAT DEFECTS IN THE SOFTWARE WILL BE CORRECTED. 
+NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY FLOWAXY STUDIO OR ITS 
+AUTHORIZED REPRESENTATIVES SHALL CREATE A WARRANTY.
 
 7. LIMITATION OF LIABILITY
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL FLOWAXY 
-OR ITS LICENSORS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR 
-CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR 
-LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, 
-OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE 
-SOFTWARE, EVEN IF FLOWAXY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+STUDIO, ITS AFFILIATES, LICENSORS, DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, OR 
+CONTRACTORS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, 
+PUNITIVE, OR EXEMPLARY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, 
+DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS 
+INFORMATION, LOSS OF DATA, LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE 
+OR MALFUNCTION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF OR IN CONNECTION 
+WITH THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF FLOWAXY STUDIO HAS 
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL FLOWAXY 
+STUDIO'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES EXCEED THE AMOUNT OF ZERO 
+DOLLARS ($0.00), AS THE SOFTWARE IS PROVIDED AT NO COST.
+
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR 
+CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO 
+YOU.
 
 8. TERMINATION
 
 This Agreement is effective until terminated. Your rights under this Agreement 
-will terminate automatically without notice from Flowaxy if you fail to comply 
-with any term(s) of this Agreement. Upon termination, you must immediately 
-cease all use of the Software and destroy all copies of the Software in your 
-possession or control.
+will terminate automatically without notice from Flowaxy Studio if you fail 
+to comply with any term(s) of this Agreement. Flowaxy Studio may terminate 
+this Agreement at any time, with or without cause, by providing notice to you. 
+Upon termination of this Agreement:
+   a) All rights granted to you under this Agreement shall immediately cease;
+   b) You must immediately cease all use of the Software;
+   c) You must immediately destroy all copies of the Software in your 
+      possession or control, including all backup copies;
+   d) You must certify in writing to Flowaxy Studio that you have complied 
+      with the foregoing obligations.
 
-9. GOVERNING LAW
+Sections 2, 4, 6, 7, 9, 10, 11, and 12 shall survive termination of this 
+Agreement.
+
+9. GOVERNING LAW AND JURISDICTION
 
 This Agreement shall be governed by and construed in accordance with the laws 
-of [Jurisdiction], without regard to its conflict of law provisions. Any 
-disputes arising under or in connection with this Agreement shall be subject 
-to the exclusive jurisdiction of the courts of [Jurisdiction].
+of the jurisdiction in which Flowaxy Studio is established, without regard 
+to its conflict of law provisions. Any disputes, controversies, or claims 
+arising out of or in connection with this Agreement, including but not 
+limited to questions regarding its existence, validity, or termination, shall 
+be subject to the exclusive jurisdiction of the competent courts of the 
+jurisdiction in which Flowaxy Studio is established.
 
 10. SEVERABILITY
 
-If any provision of this Agreement is held to be invalid or unenforceable, 
-the remaining provisions shall remain in full force and effect.
+If any provision of this Agreement is held to be invalid, illegal, or 
+unenforceable by a court of competent jurisdiction, such provision shall be 
+modified to the minimum extent necessary to make it valid, legal, and 
+enforceable, or if such modification is not possible, such provision shall be 
+severed from this Agreement. The remaining provisions of this Agreement shall 
+remain in full force and effect, and the invalid, illegal, or unenforceable 
+provision shall be replaced with a valid, legal, and enforceable provision 
+that comes closest to the intent of the parties underlying the invalid, 
+illegal, or unenforceable provision.
 
 11. ENTIRE AGREEMENT
 
-This Agreement constitutes the entire agreement between you and Flowaxy 
+This Agreement constitutes the entire agreement between you and Flowaxy Studio 
 regarding the Software and supersedes all prior or contemporaneous 
-understandings, agreements, negotiations, representations, and warranties, 
-whether written or oral, regarding the Software.
+understandings, agreements, negotiations, representations, warranties, and 
+communications, whether written or oral, regarding the Software. This 
+Agreement may not be modified, amended, or waived except in a writing signed 
+by both parties or, in the case of a waiver, by the party against whom the 
+waiver is to be enforced.
 
-12. CONTACT INFORMATION
+12. ASSIGNMENT
 
-For questions regarding this license or to obtain a commercial license, 
-please contact:
+You may not assign, transfer, or delegate this Agreement or any of your rights 
+or obligations hereunder without the prior written consent of Flowaxy Studio. 
+Any attempted assignment, transfer, or delegation in violation of this 
+section shall be null and void. Flowaxy Studio may assign, transfer, or 
+delegate this Agreement or any of its rights or obligations hereunder without 
+your consent.
+
+13. WAIVER
+
+No waiver by Flowaxy Studio of any term or condition set forth in this 
+Agreement shall be deemed a further or continuing waiver of such term or 
+condition or a waiver of any other term or condition, and any failure of 
+Flowaxy Studio to assert a right or provision under this Agreement shall not 
+constitute a waiver of such right or provision.
+
+14. NOTICES
+
+All notices, requests, and other communications under this Agreement must be 
+in writing and will be deemed to have been duly given when: (a) delivered 
+personally; (b) sent by registered or certified mail, return receipt requested; 
+(c) sent by recognized overnight courier service; or (d) sent by email to the 
+addresses specified below, with confirmation of receipt.
+
+15. CONTACT INFORMATION
+
+For questions regarding this license, to report violations, or to obtain a 
+commercial license, please contact:
 
    Flowaxy Studio
-   Email: info@flowaxy.com
    Website: https://flowaxy.com
+   Email: info@flowaxy.com
+   
+   For licensing inquiries, please visit: https://flowaxy.com
+   For support, please contact: info@flowaxy.com
+
+16. ACKNOWLEDGMENT
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, 
+UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS. YOU FURTHER 
+ACKNOWLEDGE THAT THIS AGREEMENT CONSTITUTES THE COMPLETE AND EXCLUSIVE 
+STATEMENT OF THE AGREEMENT BETWEEN YOU AND FLOWAXY STUDIO REGARDING THE 
+SOFTWARE.
 
 END OF LICENSE AGREEMENT
-
